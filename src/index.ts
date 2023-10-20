@@ -1,5 +1,5 @@
-import CanvasHighlighter from './class/CanvasHighlighter'
+import CanvasHighlighter from './class/CanvasHighlighter';
 
-export * from './utils/types'
+export * from './utils/types';
 
-export default CanvasHighlighter
+export default CanvasHighlighter;
