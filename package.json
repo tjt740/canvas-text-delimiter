@@ -1,5 +1,5 @@
 {
-    "name": "canvas-highlighter",
+    "name": "canvas-text-delimiter",
     "version": "1.0.6",
     "description": "基于canvas实现文本绘制高亮",
     "type": "module",
